@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath> // For pow function
+#include <cmath> 
 using namespace std;
 
 int main() {
